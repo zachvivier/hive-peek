@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": [
+            {"text": "Hive Peek", "color": "gold"},
+            {"text": "\nSee how many bees are in the hive you look at", "color": "yellow"}
+        ],
+        "min_format": [88, 0],
+        "max_format": [121, 0]
+    }
+}
